@@ -46,3 +46,5 @@
 
 ------------
 ✨ Thanks for visiting!
+
+![snake gif](https://github.com/eliribeirosf/eliribeirosf/blob/output/github-contribution-grid-snake.svg)

@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/HTML-flat?logo=HTML5&style=for-the-badge&logoColor=a277ff&labelColor=000&color=15141b&logoWidth=30" />
   <img src="https://img.shields.io/badge/CSS-flat?logo=CSS3&style=for-the-badge&logoColor=a277ff&labelColor=000&color=15141b&logoWidth=30" />
   <img src="https://img.shields.io/badge/JavaScript-flat?logo=JavaScript&style=for-the-badge&logoColor=a277ff&labelColor=000&color=15141b&logoWidth=30" />
+  <img src="https://img.shields.io/badge/Code-flat?logo=visual-studio-code&style=for-the-badge&logoColor=a277ff&labelColor=000&color=15141b&logoWidth=30" />
   <img src="https://img.shields.io/badge/Linux-flat?logo=Linux&style=for-the-badge&logoColor=a277ff&labelColor=000&color=15141b&logoWidth=30" />
 </div>
 

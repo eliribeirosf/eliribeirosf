@@ -33,8 +33,8 @@
 
 <p align='center'>
   <div>
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=eliribeirosf&count_private=true&hide=contribs&show_icons=true&bg_color=15141b&title_color=a277ff&text_color=edecee&icon_color=ffca85&border_color=61ffca&hide_border=false" />
-    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliribeirosf&count_private=true&bg_color=15141b&title_color=a277ff&text_color=edecee&icon_color=ffca85&border_color=61ffca&hide_border=false&layout=compact" />
+    <img height="155em" src="https://github-readme-stats-eliribeirosf.vercel.app/api/?username=eliribeirosf&count_private=true&hide=contribs&show_icons=true&bg_color=15141b&title_color=a277ff&text_color=edecee&icon_color=ffca85&border_color=61ffca&hide_border=false" />
+    <img height="155" src="https://github-readme-stats-eliribeirosf.vercel.app/api/top-langs/?username=eliribeirosf&count_private=true&bg_color=15141b&title_color=a277ff&text_color=edecee&icon_color=ffca85&border_color=61ffca&hide_border=false&layout=compact" />
   </div>
 </p>
 

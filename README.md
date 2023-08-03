@@ -25,10 +25,12 @@
 ```
 > [👨‍💻] Student and Gamer from João Pessoa - PB, Brazil.
 > [📚] Systems Analysis and Development student at Gran Faculdade.
+> [📫] How to reach me: eliribeirosf@protonmail.com
 > [🐧] Linux user.
 ```
 
 ### 📈 Stats
+
 <p align='center'>
   <div>
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=eliribeirosf&count_private=true&hide=contribs&show_icons=true&bg_color=15141b&title_color=a277ff&text_color=edecee&icon_color=ffca85&border_color=61ffca&hide_border=false" />
@@ -37,6 +39,7 @@
 </p>
 
 ### 🚀 Learning and Tools
+
 <div style="display: inline_block">
   <img src="https://img.shields.io/badge/HTML-flat?logo=HTML5&style=for-the-badge&logoColor=a277ff&labelColor=000&color=15141b&logoWidth=30" />
   <img src="https://img.shields.io/badge/CSS-flat?logo=CSS3&style=for-the-badge&logoColor=a277ff&labelColor=000&color=15141b&logoWidth=30" />
@@ -44,7 +47,8 @@
   <img src="https://img.shields.io/badge/Linux-flat?logo=Linux&style=for-the-badge&logoColor=a277ff&labelColor=000&color=15141b&logoWidth=30" />
 </div>
 
-------------
+---
+
 ✨ Thanks for visiting!
 
 ![snake gif](https://github.com/eliribeirosf/eliribeirosf/blob/output/github-contribution-grid-snake-dark.svg)
